@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Bienvenue sur les pages GitHub
 
-You can use the [editor on GitHub](https://github.com/Acidburn0zzz/debian-sysroot-image-creator/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Vous pouvez utiliser le [editor on GitHub](https://github.com/Acidburn0zzz/debian-sysroot-image-creator/edit/master/index.md) pour maintenir et prévisualiser le contenu de votre site Web dans des fichiers Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Chaque fois que vous vous engagez dans ce référentiel, les pages GitHub s'exécuteront [Jekyll](https://jekyllrb.com/) pour reconstruire les pages de votre site, à partir du contenu de vos fichiers Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown est une syntaxe légère et facile à utiliser pour styliser votre écriture. Il comprend des conventions pour
 
 ```markdown
 Syntax highlighted code block
@@ -21,17 +21,23 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Gras** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Lien](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Pour plus de détails, voir [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Acidburn0zzz/debian-sysroot-image-creator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Votre site Gihub Pages utilisera,
+la mise en page et les styles de thème pour Jekyll que vous avez sélectionné dans votre répertoire de configuration.
+J'illustre ceci ici avec mon repertoire de configuration qui sera biensure différent dans votre cas.
+Donc pour moi c'est ici que cela ce passe [repository settings](https://github.com/Acidburn0zzz/debian-sysroot-image-creator/settings). Le nom de ce thème est enregistré dans le Jekyll `_config.yml` fichier de configuration.
 
-### Support or Contact
+### Support ou Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Vous rencontrez des problèmes avec Github Pages ? 
+Consultez notre [documentation] (https://help.github.com/categories/github-pages-basics/) 
+ou [contactez l'assistance] (https://github.com/contact) et nous vous aiderons à trouver 
+les conseils dans le manuel de documentation.
